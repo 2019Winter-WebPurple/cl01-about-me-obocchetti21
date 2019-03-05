@@ -1,0 +1,33 @@
+* Name
+* Due Date 
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */ 
+body {background-color: dodgerblue;
+    width: 70%;
+    margin: auto;
+}
+
+h1 {background-color:deepskyblue ; /* color for background */
+    color:floralwhite; /* color for text */   
+}
+
+p { /*type selctor for ALL paragraphs */
+    color:fuchsia
+}
+
+#redtext { /* use an id to change text to red */
+    color:firebrick; 
+}
+
+.greenText { 
+    color:chartreuse;
+
+}
